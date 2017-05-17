@@ -5,7 +5,7 @@
   ],
   "dependencies": {
     "angular": ">= 1.1.5",
-    "SHA-1": "*"
+    "SHA-1": "https://github.com/RepublicServicesRepository/SHA-1.git#master"
   },
   "devDependencies": {
     "angular-mocks": ">= 1.1.5",
